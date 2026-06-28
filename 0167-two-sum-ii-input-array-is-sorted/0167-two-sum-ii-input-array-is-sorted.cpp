@@ -6,7 +6,7 @@ public:
         int tail = n-1 ;
         int sum =0;
         vector<int> ans ;
-        for(int i=0;i<n;i++){
+        while(head<tail){
             sum= nums[head]+nums[tail];
             if(sum> tar){
                 tail--;
