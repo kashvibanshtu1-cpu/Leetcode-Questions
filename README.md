@@ -19,6 +19,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0918-maximum-sum-circular-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -100,6 +101,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
