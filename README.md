@@ -17,6 +17,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0287-find-the-duplicate-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
@@ -67,6 +68,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0142-linked-list-cycle-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0202-happy-number/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +83,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
