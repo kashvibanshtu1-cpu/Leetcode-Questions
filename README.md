@@ -9,6 +9,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0015-3sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0057-insert-interval](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0057-insert-interval/) | Medium |
 | [0075-sort-colors](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0152-maximum-product-subarray/) | Medium |
