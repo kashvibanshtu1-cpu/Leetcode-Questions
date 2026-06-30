@@ -106,6 +106,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0003-longest-substring-without-repeating-characters](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,4 +130,8 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0986-interval-list-intersections](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0986-interval-list-intersections/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 <!---LeetCode Topics End-->
