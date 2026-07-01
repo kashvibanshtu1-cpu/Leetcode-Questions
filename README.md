@@ -114,6 +114,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0344-reverse-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0344-reverse-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +146,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0503-next-greater-element-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
