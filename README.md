@@ -17,6 +17,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0496-next-greater-element-i](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0724-find-pivot-index/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -75,6 +76,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0142-linked-list-cycle-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0202-happy-number/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0496-next-greater-element-i](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -137,5 +139,10 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0020-valid-parentheses/) | Easy |
+| [0496-next-greater-element-i](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
