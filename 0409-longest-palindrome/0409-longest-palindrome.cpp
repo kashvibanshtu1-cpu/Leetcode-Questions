@@ -14,13 +14,6 @@ public:
                 count += freq;
             } else {
                 odd = true;
-            }
-        }
-        if (odd == false) {
-            return count;
-        }
-        if (odd == true) {
-            for (auto i : mp) {
                 int val = i.second;
                 if (val % 2 != 0) {
                     int freq = val - 1;
@@ -28,6 +21,18 @@ public:
                 }
             }
         }
-        return count + 1;
-    }
-};
+            if (odd == false) {
+                return count;
+            }
+            // if (odd == true) {
+            //     for (auto i : mp) {
+            //         int val = i.second;
+            //         if (val % 2 != 0) {
+            //             int freq = val - 1;
+            //             count += freq;
+            //         }
+            //     }
+            
+            return count + 1;
+        }
+    };
