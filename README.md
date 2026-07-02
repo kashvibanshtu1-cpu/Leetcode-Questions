@@ -78,6 +78,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0141-linked-list-cycle](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0202-happy-number/) | Easy |
+| [0409-longest-palindrome](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -113,6 +114,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0020-valid-parentheses](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0344-reverse-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0344-reverse-string/) | Easy |
+| [0409-longest-palindrome](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
@@ -160,4 +162,8 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0409-longest-palindrome](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0409-longest-palindrome/) | Easy |
 <!---LeetCode Topics End-->
