@@ -78,6 +78,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0141-linked-list-cycle](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0202-happy-number/) | Easy |
+| [0383-ransom-note](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -115,6 +116,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0020-valid-parentheses](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0344-reverse-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0344-reverse-string/) | Easy |
+| [0383-ransom-note](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -172,5 +174,6 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
