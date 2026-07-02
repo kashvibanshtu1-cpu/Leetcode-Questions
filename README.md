@@ -84,6 +84,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0424-longest-repeating-character-replacement](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +122,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0409-longest-palindrome](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -176,4 +178,5 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 <!---LeetCode Topics End-->
