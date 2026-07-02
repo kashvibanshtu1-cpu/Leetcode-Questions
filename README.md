@@ -61,6 +61,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0141-linked-list-cycle](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,10 +148,16 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0739-daily-temperatures](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0739-daily-temperatures/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 <!---LeetCode Topics End-->
