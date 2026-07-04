@@ -14,6 +14,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0075-sort-colors](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -53,6 +54,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
