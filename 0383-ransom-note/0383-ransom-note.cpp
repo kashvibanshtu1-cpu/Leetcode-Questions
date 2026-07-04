@@ -1,19 +1,19 @@
 class Solution {
 public:
-    bool canConstruct(string rans, string mag) {
-        unordered_map<char, int> need;
-        for (int i = 0; i < rans.size(); i++) {
-            need[rans[i]]++;
+    bool canConstruct(string ransom, string mag) {
+        unordered_map<char, int> ransom_mp;
+        for (int i = 0; i < ransom.size(); i++) {
+            ransom_mp[ransom[i]]++;
         }
-        unordered_map<char, int> have;
+        unordered_map<char, int> mag_mp;
         for (int i = 0; i < mag.size(); i++) {
-            have[mag[i]]++;
+            mag_mp[mag[i]]++;
         }
-        for (auto i : need) {
-            char c = i.first;
-            int ranfreq = i.second;
-            int magfreq = have[c];
-            if (ranfreq > magfreq) {
+        for (auto p : ransom_mp) {
+            char c = p.first;
+            int ransomFreq = p.second;
+            int magFreq = mag_mp[c];
+            if (ransomFreq > magFreq) {
                 return false;
             }
         }
