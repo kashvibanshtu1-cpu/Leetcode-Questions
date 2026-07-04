@@ -1,8 +1,8 @@
 class Solution {
 public:
     vector<int> dailyTemperatures(vector<int>& nums) {
-        int n = nums.size();
         stack<int> st;
+        int n = nums.size();
         vector<int> ans(n, 0);
         st.push(n - 1);
         ans[n - 1] = 0;
