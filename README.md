@@ -9,6 +9,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0015-3sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0056-merge-intervals](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0057-insert-interval/) | Medium |
 | [0075-sort-colors](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0075-sort-colors/) | Medium |
@@ -54,6 +55,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
