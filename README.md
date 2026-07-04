@@ -19,6 +19,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0287-find-the-duplicate-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0496-next-greater-element-i](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0704-binary-search](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0739-daily-temperatures/) | Medium |
@@ -53,6 +54,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0704-binary-search](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Linked List
