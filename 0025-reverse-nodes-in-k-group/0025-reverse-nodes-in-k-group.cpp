@@ -11,8 +11,8 @@
 class Solution {
 public:
     void reverse(ListNode* head, int times) {
-        ListNode* prev = NULL;
         ListNode* curr = head;
+        ListNode* prev = NULL;
         ListNode* next;
         while (times--) {
             next = curr->next;
@@ -38,12 +38,12 @@ public:
             }
             if (right) {
                 nextleft = right->next;
+                if (res == NULL) {
+                    res = right;
+                }
                 reverse(left, k);
                 if (prevleft) {
                     prevleft->next = right;
-                }
-                if (res == NULL) {
-                    res = right;
                 }
                 prevleft = left;
                 left = nextleft;
@@ -51,8 +51,9 @@ public:
                 if (prevleft) {
                     prevleft->next = left;
                 }
-                if (res == NULL)
+                if (res == NULL) {
                     return left;
+                }
                 break;
             }
         }
