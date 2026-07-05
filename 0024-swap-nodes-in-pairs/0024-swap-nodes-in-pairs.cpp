@@ -23,29 +23,33 @@ public:
         return;
     }
     ListNode* swapPairs(ListNode* head) {
+        if (head == NULL) {
+            return NULL;
+        }
         int k = 2;
-        ListNode* left = head;
-        ListNode* nextleft;
-        ListNode* right;
-        ListNode* prevleft = NULL;
         ListNode* res = NULL;
+        ListNode* right;
+        ListNode* left = head;
+        ListNode* prevleft = NULL;
+        ListNode* nextleft;
         while (true) {
             right = left;
             for (int i = 0; i < k - 1; i++) {
-                if (right == NULL)
+                if (right == NULL) {
                     break;
+                }
                 right = right->next;
             }
             if (right) {
                 nextleft = right->next;
+                if (res == NULL) {
+                    res = right;
+                }
                 reverse(left, k);
                 if (prevleft) {
                     prevleft->next = right;
                 }
                 prevleft = left;
-                if (res == NULL) {
-                    res = right;
-                }
                 left = nextleft;
             } else {
                 if (prevleft) {
