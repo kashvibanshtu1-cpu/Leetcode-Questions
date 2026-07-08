@@ -36,6 +36,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0875-koko-eating-bananas](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
