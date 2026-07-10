@@ -34,6 +34,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0977-squares-of-a-sorted-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0986-interval-list-intersections/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -71,6 +72,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0852-peak-index-in-a-mountain-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Linked List
