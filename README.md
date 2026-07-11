@@ -21,6 +21,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0496-next-greater-element-i](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0704-binary-search](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0704-binary-search/) | Easy |
@@ -67,6 +68,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0704-binary-search](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -124,6 +126,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0724-find-pivot-index/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -154,6 +157,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -202,6 +206,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0409-longest-palindrome/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
