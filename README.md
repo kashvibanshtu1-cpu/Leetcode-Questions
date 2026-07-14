@@ -6,6 +6,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -63,6 +64,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -168,6 +170,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Queue
