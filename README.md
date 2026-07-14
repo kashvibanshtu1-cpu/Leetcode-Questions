@@ -21,6 +21,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0162-find-peak-element](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0496-next-greater-element-i](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -69,6 +70,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0162-find-peak-element](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0704-binary-search](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0704-binary-search/) | Easy |
@@ -166,6 +168,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -219,4 +222,5 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->
