@@ -77,6 +77,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0287-find-the-duplicate-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0704-binary-search](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -144,6 +145,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0202-happy-number/) | Easy |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
