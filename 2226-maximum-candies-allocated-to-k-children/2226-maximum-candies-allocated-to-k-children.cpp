@@ -1,31 +1,32 @@
 class Solution {
 public:
-    bool candivide(const vector<int>& candies, long long k, int mid) {
+    bool fun(vector<int>& candies, long long k,int guess) {
         long long child = 0;
         for (int i = 0; i < candies.size(); i++) {
-           child += candies[i]/mid;
+            if (candies[i] >= guess) {
+                child += candies[i] / guess;
+            }
         }
         if (child >= k)
             return true;
         return false;
     }
     int maximumCandies(vector<int>& candies, long long k) {
+        int start = 1;
+        int end = *max_element(candies.begin(),candies.end());
         long long sum = 0;
         for (int i = 0; i < candies.size(); i++) {
-            sum = sum + candies[i];
+            sum+= candies[i];
         }
-        if (sum < k)
-            return 0;
-        int start = 1;
-        int end = *max_element(candies.begin(), candies.end());
-        int ans;
+        if(sum<k) return 0;
+        int ans = 0;
         while (start <= end) {
-            int mid = start + (end - start) / 2;
-            if (candivide(candies, k, mid)) {
-                ans = mid;
-                start = mid + 1;
+            int guess = start + (end - start) / 2;
+            if (fun(candies, k, guess)) {
+                ans = guess;
+                start = guess + 1;
             } else {
-                end = mid - 1;
+                end = guess - 1;
             }
         }
         return ans;
