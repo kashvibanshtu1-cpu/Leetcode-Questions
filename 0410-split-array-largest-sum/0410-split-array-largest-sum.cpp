@@ -15,7 +15,7 @@ public:
         return true;
     }
     int splitArray(vector<int>& nums, int k) {
-        int start = *min_element(nums.begin(), nums.end());
+        int start = *max_element(nums.begin(), nums.end());
         int end = 0;
         for (int i = 0; i < nums.size(); i++) {
             end += nums[i];
