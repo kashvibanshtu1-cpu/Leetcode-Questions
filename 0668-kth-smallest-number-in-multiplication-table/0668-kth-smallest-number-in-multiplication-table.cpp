@@ -1,7 +1,7 @@
 class Solution {
 public:
     int fun(int m, int n, int mid) {
-        int count;
+        int count =0;
         for (int i = 1; i <= m; i++) {
             count += min(n, mid / i);
         }
