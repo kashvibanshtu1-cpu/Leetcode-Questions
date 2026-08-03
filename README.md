@@ -45,6 +45,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0986-interval-list-intersections](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0986-interval-list-intersections/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1046-last-stone-weight](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1046-last-stone-weight/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -259,6 +260,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1046-last-stone-weight](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1046-last-stone-weight/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
