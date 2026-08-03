@@ -1,45 +1,59 @@
 class Solution {
 public:
     string reorganizeString(string s) {
-        int n = s.size();
+
         unordered_map<char, int> mp;
-        for (int i = 0; i < s.size(); i++) {
-            mp[s[i]]++;
-        }
+
+        for (char ch : s)
+            mp[ch]++;
+
         priority_queue<pair<int, char>> pq;
+
         for (auto p : mp) {
-            char first = p.first;
-            int second = p.second;
-            pq.push({second, first});
+            pq.push({p.second, p.first});
         }
+
         string ans = "";
         int curr = 0;
+
         while (!pq.empty()) {
+
             pair<int, char> t = pq.top();
-            int freq = t.first;
             pq.pop();
-             if (curr == 0 || ans[curr - 1] != t.second) {
+
+            int freq = t.first;
+
+            if (curr == 0 || ans[curr - 1] != t.second) {
+
                 ans.push_back(t.second);
-                freq -= 1;
-                if (freq != 0)
+                freq--;
+
+                if (freq > 0)
                     pq.push({freq, t.second});
-            }
-            else {
+
+            } else {
+
                 if (pq.empty())
                     return "";
-                if (!pq.empty()) {
-                    pair<int, char> snd = pq.top();
-                    int freq = snd.first;
-                    pq.pop();
-                    ans.push_back(snd.second);
-                    freq -= 1;
-                    if (freq != 0)
-                        pq.push({freq, snd.second});
-                    pq.push(t);
-                }
+
+                pair<int, char> snd = pq.top();
+                pq.pop();
+
+                int freq2 = snd.first;
+
+                ans.push_back(snd.second);
+                freq2--;
+
+                if (freq2 > 0)
+                    pq.push({freq2, snd.second});
+
+                // Push the skipped character back
+                pq.push({freq, t.second});
             }
+
             curr++;
         }
+
         return ans;
     }
 };
