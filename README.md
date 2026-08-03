@@ -47,6 +47,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1046-last-stone-weight](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1046-last-stone-weight/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
@@ -91,6 +92,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0875-koko-eating-bananas](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Linked List
@@ -120,6 +122,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0692-top-k-frequent-words](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,6 +257,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0074-search-a-2d-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -264,6 +268,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0692-top-k-frequent-words](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1046-last-stone-weight/) | Easy |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
