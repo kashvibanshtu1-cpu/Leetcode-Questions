@@ -39,6 +39,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0724-find-pivot-index](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0871-minimum-number-of-refueling-stops](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -198,6 +199,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0871-minimum-number-of-refueling-stops](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -255,6 +257,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0410-split-array-largest-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0502-ipo](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0502-ipo/) | Hard |
 | [0767-reorganize-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0767-reorganize-string/) | Medium |
+| [0871-minimum-number-of-refueling-stops](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,6 +285,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0658-find-k-closest-elements](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0767-reorganize-string/) | Medium |
+| [0871-minimum-number-of-refueling-stops](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1046-last-stone-weight/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
