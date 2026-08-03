@@ -31,6 +31,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0410-split-array-largest-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0496-next-greater-element-i](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -66,6 +67,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0202-happy-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0344-reverse-string/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0986-interval-list-intersections/) | Medium |
@@ -85,6 +87,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0287-find-the-duplicate-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0658-find-k-closest-elements](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0704-binary-search](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -119,6 +122,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0215-kth-largest-element-in-an-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -147,6 +151,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0076-minimum-window-substring](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
@@ -265,6 +270,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0215-kth-largest-element-in-an-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1046-last-stone-weight/) | Easy |
