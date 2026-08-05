@@ -172,6 +172,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0202-happy-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Bit Manipulation
@@ -199,6 +200,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0509-fibonacci-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
@@ -249,6 +251,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0024-swap-nodes-in-pairs](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0509-fibonacci-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -312,4 +315,8 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
