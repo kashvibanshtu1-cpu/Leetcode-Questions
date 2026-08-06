@@ -135,6 +135,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0076-minimum-window-substring](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -183,6 +184,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0076-minimum-window-substring](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0076-minimum-window-substring/) | Hard |
@@ -324,6 +326,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0022-generate-parentheses/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
