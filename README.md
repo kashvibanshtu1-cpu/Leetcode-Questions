@@ -17,6 +17,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0057-insert-interval](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0057-insert-interval/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -180,6 +181,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0078-subsets/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -330,6 +332,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0039-combination-sum/) | Medium |
+| [0078-subsets](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0078-subsets/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
