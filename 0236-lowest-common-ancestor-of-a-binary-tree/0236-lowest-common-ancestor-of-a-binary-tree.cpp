@@ -16,15 +16,14 @@ public:
         }
         int left = check(root->left, p, q);
         int right = check(root->right, p, q);
-        int self =0 ;
+        int self = 0;
         int sum;
         if (root->val == p->val || root->val == q->val) {
-            self = 1 ;
-            }
-            sum = self + left + right;
-            if (sum== 2 && ans == NULL) {
-                ans = root;
-            
+            self = 1;
+        }
+        sum = self + left + right;
+        if (sum == 2 && ans == NULL) {
+            ans = root;
         }
         return sum;
     }
