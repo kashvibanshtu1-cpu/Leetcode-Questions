@@ -351,6 +351,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -360,6 +361,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0101-symmetric-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -372,6 +374,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -381,4 +384,12 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0102-binary-tree-level-order-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
