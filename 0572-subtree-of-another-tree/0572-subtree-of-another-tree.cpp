@@ -31,7 +31,7 @@ public:
 
         if (root->val == subRoot->val) {
             if (check(root, subRoot))
-            return true ;
+                return true;
         }
         return fun(root->left, subRoot) || fun(root->right, subRoot);
     };
