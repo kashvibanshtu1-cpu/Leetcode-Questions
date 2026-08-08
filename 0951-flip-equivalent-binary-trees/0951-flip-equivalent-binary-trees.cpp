@@ -19,13 +19,13 @@ public:
             return false;
         if (root1->val != root2->val)
             return false;
-        bool a = valid(root1->right, root2->left);
-        bool b = valid(root1->left, root2->right);
-        bool c = a && b;
-        bool d = valid(root1->left, root2->left);
-        bool e = valid(root1->right, root2->right);
-        bool f = d && e;
-        return c || f;
+        bool a = valid(root1->right, root2->left) &&
+                 valid(root1->left, root2->right);
+
+        bool c = valid(root1->left, root2->left) &&
+                 valid(root1->right, root2->right);
+
+        return a || c;
     }
     bool flipEquiv(TreeNode* root1, TreeNode* root2) {
         return valid(root1, root2);
