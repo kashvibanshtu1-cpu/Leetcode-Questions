@@ -34,6 +34,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0496-next-greater-element-i](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0502-ipo](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0502-ipo/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0621-task-scheduler](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0704-binary-search/) | Easy |
@@ -127,6 +128,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0347-top-k-frequent-elements](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0502-ipo](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0502-ipo/) | Hard |
+| [0621-task-scheduler](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0767-reorganize-string/) | Medium |
@@ -148,6 +150,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0409-longest-palindrome](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0621-task-scheduler](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0767-reorganize-string/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -269,6 +272,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0409-longest-palindrome](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0409-longest-palindrome/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0502-ipo](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0502-ipo/) | Hard |
+| [0621-task-scheduler](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0767-reorganize-string/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 ## Counting
@@ -277,6 +281,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0347-top-k-frequent-elements](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0621-task-scheduler](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0767-reorganize-string/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -295,6 +300,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0347-top-k-frequent-elements](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0502-ipo](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0502-ipo/) | Hard |
+| [0621-task-scheduler](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0767-reorganize-string/) | Medium |
