@@ -1,21 +1,19 @@
 class Solution {
 public:
-    void comb(string digits, vector<string>& ans, string diary,
-             vector <string>& mp, int i) {
-        if (i == digits.size()) {
-            ans.push_back(diary);
+    void comb(string s, vector<string>& ans, int n, vector<string>& mp,
+              string temp, int indx) {
+        if (indx == n) {
+            ans.push_back(temp);
             return;
         }
-        string s = mp[digits[i] - '0'];
-        for (int j = 0; j < s.size(); j++) {
-            diary.push_back(s[j]);
-            comb(digits, ans, diary, mp, i + 1);
-            diary.pop_back();
+        string a = mp[s[indx] - '0'];
+        for (int i = 0; i < a.size(); i++) {
+            temp.push_back(a[i]);
+            comb(s, ans, n, mp, temp, indx+1);
+            temp.pop_back();
         }
     }
-    vector<string> letterCombinations(string digits) {
-        vector<string> ans;
-        string diary = "";
+    vector<string> letterCombinations(string s) {
         vector<string> mp = {
             "",     // 0
             "",     // 1
@@ -26,9 +24,12 @@ public:
             "mno",  // 6
             "pqrs", // 7
             "tuv",  // 8
-            "wxyz"  // 9
-            };
-            comb(digits, ans, diary, mp, 0);
+            "wxyz"  // 0
+        };
+         int n = s.size();
+        vector<string> ans;
+        string temp = "";
+        comb(s, ans, n, mp, temp, 0);
         return ans;
     }
 };
