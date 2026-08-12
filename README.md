@@ -359,6 +359,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -372,6 +373,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0101-symmetric-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -387,6 +389,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -424,6 +427,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
