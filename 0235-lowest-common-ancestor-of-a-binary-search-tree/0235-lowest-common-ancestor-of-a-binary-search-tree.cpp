@@ -10,26 +10,21 @@
 
 class Solution {
 public:
-    bool valid = false ;
-    int lca(TreeNode* root, TreeNode* p, TreeNode* q, TreeNode*& ans) {
-        if (root == NULL) {
-            return 0;
+    TreeNode* valid(TreeNode* root, TreeNode* p, TreeNode* q) {
+        if (root == NULL || root == p || root == q) {
+            return root;
         }
-        int left = lca(root->left, p, q, ans);
-        int right = lca(root->right, p, q, ans);
-        int self = left + right;
-        if (root->val == p->val || root->val == q->val) {
-            self = 1 + self;
+        TreeNode* left = valid(root->left, p, q);
+        TreeNode* right = valid(root->right, p, q);
+        if (left != NULL && right != NULL) {
+            return root;
         }
-        if (self == 2 && valid == false ) {
-            ans = root;
-            valid = true ;
+        if (left != NULL) {
+            return left;
         }
-        return self;
+        return right;
     }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        TreeNode* ans = NULL;
-        lca(root, p, q, ans);
-        return ans;
+        return valid(root, p, q);
     }
 };
