@@ -21,14 +21,12 @@ public:
             t = t->left;
         }
         int ans;
-        bool ones = false;
         while (!asc.empty() || count != k) {
             TreeNode* small = asc.top();
             asc.pop();
             count++;
-            if (count == k && ones == false) {
+            if (count == k) {
                 ans = small->val;
-                ones = true;
                 break;
             }
             TreeNode* rightchild = small->right;
