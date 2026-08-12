@@ -72,6 +72,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0202-happy-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0344-reverse-string/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -151,6 +152,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0424-longest-repeating-character-replacement](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0621-task-scheduler](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0621-task-scheduler/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0767-reorganize-string/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -359,6 +361,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0145-binary-tree-postorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -370,6 +373,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0145-binary-tree-postorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -384,6 +388,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0145-binary-tree-postorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -393,6 +398,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0102-binary-tree-level-order-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -413,4 +419,8 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 <!---LeetCode Topics End-->
