@@ -362,6 +362,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -389,6 +390,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -423,4 +425,5 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
