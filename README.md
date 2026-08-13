@@ -344,6 +344,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0022-generate-parentheses](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0078-subsets/) | Medium |
+| [0113-path-sum-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0113-path-sum-ii/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -358,6 +359,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -374,6 +376,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0100-same-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -392,6 +395,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
