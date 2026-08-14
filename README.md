@@ -366,6 +366,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -384,6 +385,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
@@ -404,6 +406,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -447,4 +450,8 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
