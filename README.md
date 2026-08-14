@@ -372,6 +372,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -414,6 +415,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -424,6 +426,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0112-path-sum/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
