@@ -56,6 +56,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [1834-single-threaded-cpu](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1834-single-threaded-cpu/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -136,6 +137,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0973-k-closest-points-to-origin](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1834-single-threaded-cpu](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1834-single-threaded-cpu/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -310,6 +312,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0973-k-closest-points-to-origin](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1046-last-stone-weight/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1834-single-threaded-cpu](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1834-single-threaded-cpu/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
