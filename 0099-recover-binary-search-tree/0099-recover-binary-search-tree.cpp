@@ -1,44 +1,38 @@
 class Solution {
 public:
-    TreeNode* g_f = NULL;
-    TreeNode* g_s = NULL;
-    TreeNode* g2_f = NULL;
-    TreeNode* g2_s = NULL;
+    TreeNode* first = NULL;
     TreeNode* prev = NULL;
+    TreeNode* mid = NULL;
+    TreeNode* last = NULL;
 
-    void fun(TreeNode* root, int& count) {
+    void inorder(TreeNode* root) {
         if (root == NULL)
             return;
 
-        fun(root->left, count);
+        inorder(root->left);
 
-        if (prev != NULL && prev->val > root->val && count >= 1) {
-            g2_f = prev;
-            g2_s = root;
-            count++;
-        }
+        if (prev != NULL && root->val < prev->val) {
 
-        if (prev != NULL && prev->val > root->val && count == 0) {
-            g_f = prev;
-            g_s = root;
-            count++;
+            if (first == NULL) {
+                first = prev;
+                mid = root;
+            }
+            else {
+                last = root;
+            }
         }
 
         prev = root;
 
-        fun(root->right, count);
+        inorder(root->right);
     }
 
     void recoverTree(TreeNode* root) {
-        int count = 0;
+        inorder(root);
 
-        fun(root, count);
-
-        if (count == 1) {
-            swap(g_f->val, g_s->val);
-        }
-        else {
-            swap(g_f->val, g2_s->val);
-        }
+        if (first && last)
+            swap(first->val, last->val);
+        else
+            swap(first->val, mid->val);
     }
 };
