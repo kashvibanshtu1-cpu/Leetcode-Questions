@@ -353,6 +353,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0099-recover-binary-search-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -377,6 +378,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0099-recover-binary-search-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0110-balanced-binary-tree/) | Easy |
@@ -396,6 +398,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0099-recover-binary-search-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -452,6 +455,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0099-recover-binary-search-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
