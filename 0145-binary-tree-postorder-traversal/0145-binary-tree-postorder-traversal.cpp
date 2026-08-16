@@ -12,17 +12,17 @@
  */
 class Solution {
 public:
-    void valid(TreeNode* root, vector<int>& ans ) {
-        if (root == NULL) {
+    vector<int> ans;
+    void postorder(TreeNode* root) {
+        if (root == NULL)
             return;
-        }
-        valid(root->left, ans);
-        valid(root->right, ans);
+        postorder(root->left);
+        postorder(root->right);
         ans.push_back(root->val);
+        return;
     }
     vector<int> postorderTraversal(TreeNode* root) {
-        vector<int> ans;
-        valid(root, ans);
+        postorder(root);
         return ans;
     }
 };
