@@ -52,6 +52,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0974-subarray-sums-divisible-by-k](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0986-interval-list-intersections/) | Medium |
+| [0994-rotting-oranges](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1046-last-stone-weight](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1046-last-stone-weight/) | Easy |
@@ -303,6 +304,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0200-number-of-islands](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0994-rotting-oranges](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -449,6 +451,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0547-number-of-provinces](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [0994-rotting-oranges](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0994-rotting-oranges/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
