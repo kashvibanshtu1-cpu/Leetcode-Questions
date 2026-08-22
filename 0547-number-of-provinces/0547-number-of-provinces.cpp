@@ -1,24 +1,27 @@
 class Solution {
 public:
-    void dfs(vector<vector<int>>& con, vector<bool>& vis, int node) {
+    void dfs(vector<vector<int>>& grid, vector<bool>& vis, int node) {
         vis[node] = true;
-        for (int j = 0; j < con.size(); j++) {
-            if (con[node][j] == 1 && vis[j] == false) {
-                dfs(con, vis, j);
+        for (int k = 0; k < grid[node].size(); k++) {
+            if (grid[node][k] == 1 && vis[k] == false) {
+                dfs(grid, vis, k);
             }
         }
         return;
     }
-    int findCircleNum(vector<vector<int>>& con) {
-        int n = con.size();
-        vector<bool> vis(n, false);
-        int provinces = 0;
-        for (int i = 0; i < n; i++) {
-            if (vis[i] != true) {
-                dfs(con, vis, i);
-                provinces++;
+    int findCircleNum(vector<vector<int>>& grid) {
+        int m = grid.size();
+        int n = grid[0].size();
+        vector<bool> vis(m, false);
+        int prov = 0;
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == 1 && vis[i] == false) {
+                    dfs(grid, vis, i);
+                    prov++;
+                }
             }
         }
-        return provinces;
+        return prov;
     }
 };
