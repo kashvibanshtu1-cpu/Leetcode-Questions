@@ -21,6 +21,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0130-surrounded-regions](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0162-find-peak-element/) | Medium |
@@ -301,6 +302,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0130-surrounded-regions](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -400,6 +402,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0112-path-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0130-surrounded-regions](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0200-number-of-islands/) | Medium |
@@ -447,6 +450,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0112-path-sum/) | Easy |
+| [0130-surrounded-regions](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -489,6 +493,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0547-number-of-provinces/) | Medium |
 ## Graph Theory
