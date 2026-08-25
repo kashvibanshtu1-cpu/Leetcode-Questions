@@ -60,6 +60,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1834-single-threaded-cpu/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
@@ -109,6 +110,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -308,6 +310,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -324,6 +327,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0973-k-closest-points-to-origin](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1046-last-stone-weight/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1834-single-threaded-cpu/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -414,6 +418,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0572-subtree-of-another-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -456,6 +461,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0994-rotting-oranges/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -496,8 +502,13 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0130-surrounded-regions](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0547-number-of-provinces/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0547-number-of-provinces/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1631-path-with-minimum-effort](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
