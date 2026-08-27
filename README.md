@@ -13,6 +13,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0033-search-in-rotated-sorted-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0039-combination-sum/) | Medium |
+| [0055-jump-game](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0057-insert-interval/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -227,6 +228,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0022-generate-parentheses/) | Medium |
+| [0055-jump-game](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0055-jump-game/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0509-fibonacci-number/) | Easy |
@@ -290,6 +292,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0055-jump-game/) | Medium |
 | [0409-longest-palindrome](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0409-longest-palindrome/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0455-assign-cookies/) | Easy |
