@@ -45,6 +45,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0713-subarray-product-less-than-k](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0739-daily-temperatures/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -104,6 +105,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0704-binary-search](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -308,6 +310,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0200-number-of-islands](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0994-rotting-oranges](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -323,6 +326,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0658-find-k-closest-elements](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0767-reorganize-string/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1046-last-stone-weight/) | Easy |
@@ -417,6 +421,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0547-number-of-provinces](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0547-number-of-provinces/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0778-swim-in-rising-water](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0951-flip-equivalent-binary-trees](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Binary Tree
@@ -459,6 +464,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0200-number-of-islands](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0778-swim-in-rising-water](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -502,6 +508,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0130-surrounded-regions](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0547-number-of-provinces/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -510,5 +517,10 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0778-swim-in-rising-water](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1631-path-with-minimum-effort/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0778-swim-in-rising-water](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0778-swim-in-rising-water/) | Hard |
 <!---LeetCode Topics End-->
