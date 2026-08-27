@@ -47,6 +47,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0739-daily-temperatures](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0860-lemonade-change](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0860-lemonade-change/) | Easy |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -291,6 +292,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0502-ipo](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0767-reorganize-string/) | Medium |
+| [0860-lemonade-change](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0860-lemonade-change/) | Easy |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
