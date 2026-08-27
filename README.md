@@ -35,6 +35,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0347-top-k-frequent-elements](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0502-ipo](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0502-ipo/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -81,6 +82,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0202-happy-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0344-reverse-string/) | Easy |
+| [0455-assign-cookies](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0455-assign-cookies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -139,6 +141,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0215-kth-largest-element-in-an-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0455-assign-cookies](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0455-assign-cookies/) | Easy |
 | [0502-ipo](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -289,6 +292,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0409-longest-palindrome/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0455-assign-cookies/) | Easy |
 | [0502-ipo](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0767-reorganize-string/) | Medium |
@@ -525,4 +529,8 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0778-swim-in-rising-water/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
