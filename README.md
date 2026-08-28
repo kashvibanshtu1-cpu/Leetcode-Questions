@@ -23,6 +23,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0130-surrounded-regions](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0130-surrounded-regions/) | Medium |
+| [0136-single-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0162-find-peak-element/) | Medium |
@@ -206,6 +207,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0078-subsets/) | Medium |
+| [0136-single-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0136-single-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## String
 | Problem Name | Difficulty |
