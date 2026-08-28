@@ -208,6 +208,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | ------- | ------- |
 | [0078-subsets](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0136-single-number/) | Easy |
+| [0191-number-of-1-bits](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -248,6 +249,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0023-merge-k-sorted-lists](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0191-number-of-1-bits](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
