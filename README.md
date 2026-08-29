@@ -439,6 +439,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0572-subtree-of-another-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0785-is-graph-bipartite](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0951-flip-equivalent-binary-trees](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -484,6 +485,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0547-number-of-provinces](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0785-is-graph-bipartite](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0994-rotting-oranges/) | Medium |
@@ -529,11 +531,13 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0200-number-of-islands](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0547-number-of-provinces/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0785-is-graph-bipartite](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
@@ -556,4 +560,12 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0127-word-ladder/) | Hard |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
