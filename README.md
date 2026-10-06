@@ -14,6 +14,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0039-combination-sum/) | Medium |
 | [0051-n-queens](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0057-insert-interval/) | Medium |
@@ -235,6 +236,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0022-generate-parentheses/) | Medium |
+| [0053-maximum-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0055-jump-game/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0198-house-robber/) | Medium |
@@ -250,6 +252,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0053-maximum-subarray](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0191-number-of-1-bits](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0191-number-of-1-bits/) | Easy |
