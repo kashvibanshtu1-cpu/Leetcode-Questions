@@ -165,6 +165,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0127-word-ladder/) | Hard |
+| [0133-clone-graph](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0133-clone-graph/) | Medium |
 | [0141-linked-list-cycle](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0202-happy-number/) | Easy |
@@ -436,6 +437,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0113-path-sum-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0130-surrounded-regions](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0130-surrounded-regions/) | Medium |
+| [0133-clone-graph](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0133-clone-graph/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0200-number-of-islands/) | Medium |
@@ -490,6 +492,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0112-path-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0112-path-sum/) | Easy |
 | [0127-word-ladder](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0130-surrounded-regions/) | Medium |
+| [0133-clone-graph](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -546,6 +549,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0133-clone-graph/) | Medium |
 | [0547-number-of-provinces](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0785-is-graph-bipartite/) | Medium |
