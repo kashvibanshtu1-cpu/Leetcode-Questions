@@ -24,19 +24,19 @@ public:
     Node* cloneGraph(Node* node) {
         if (node == NULL)
             return NULL;
-        unordered_map<Node*, Node*> mp;
-        queue<Node*> q;
+        unordered_map<Node*, Node*> mp;   //O(V) 
+        queue<Node*> q;                  //O(V)
         Node* clone1 = new Node(node->val);
         mp[node] = clone1;
         q.push(node);
-        while (!q.empty()) {
+        while (!q.empty()) {        //O(V)
             Node* orignal = q.front();
-            q.pop();
-            for (Node* i : orignal->neighbors) {
+            q.pop();                   //O(1)
+            for (Node* i : orignal->neighbors) {          /// O(E)
                 if (mp.find(i) == mp.end()) {
                     Node* clone = new Node(i->val);
                     mp[i] = clone;
-                    q.push(i);
+                    q.push(i);          //O(1)
                 }
                 mp[orignal]->neighbors.push_back(mp[i]);
             }
@@ -44,3 +44,5 @@ public:
         return mp[node];
     }
 };
+// SC = O(V) 
+// TC = O(V+E)
