@@ -236,6 +236,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1544-make-the-string-great](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1544-make-the-string-great/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,6 +292,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0739-daily-temperatures](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1544-make-the-string-great](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1544-make-the-string-great/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
