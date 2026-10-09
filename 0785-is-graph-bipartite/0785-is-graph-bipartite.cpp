@@ -1,30 +1,30 @@
 class Solution {
 public:
-    bool dfs(int node, int c, vector<vector<int>>& graph, vector<bool>& visited,
-             vector<int>& color) {
-        visited[node] = true;
-        color[node] = c;
+    bool fun(vector<vector<int>>& graph, vector<int>& col, vector<bool>& vis,
+             int node, int c) {
+        vis[node] = true;
+        if (col[node] == -1) {
+            col[node] = c;
+        }
         for (int i = 0; i < graph[node].size(); i++) {
-            int neigh = graph[node][i];
-            if (!visited[neigh]) {
-                if (!dfs(neigh, 1 - c, graph, visited, color)) {
+            int neighbour = graph[node][i];
+            if (vis[neighbour]) {
+                if (col[neighbour] == c)
                     return false;
-                }
             } else {
-                if (color[neigh] == c) {
+                if (!fun(graph, col, vis, neighbour, 1 - c))
                     return false;
-                }
             }
         }
         return true;
     }
     bool isBipartite(vector<vector<int>>& graph) {
         int n = graph.size();
-        vector<bool> visited(n, false);
-        vector<int> color(n, -1);
+        vector<int> col(n,-1);
+        vector<bool> vis(n, false);
         for (int i = 0; i < n; i++) {
-            if (!visited[i]) {
-                if (!dfs(i, 0, graph, visited, color))
+            if (!vis[i]) {
+                if (!fun(graph, col, vis, i, 0))
                     return false;
             }
         }
