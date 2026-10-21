@@ -1,33 +1,29 @@
 class Solution {
 public:
-    vector<vector<int>> ans;
-    vector<int> diary;
-    int target = 0;
-    int sum = 0;
-    void valid(vector<int>& nums, int indx, int n) {
-        if (indx == n) {
-            if (sum == target) {
-                ans.push_back(diary);
+    void valid(vector<int>& cand, int tar, int sum, vector<vector<int>>& ans,
+               vector<int>& temp, int i, int n) {
+        if (i == n) {
+            if (sum == tar) {
+                ans.push_back(temp);
             }
             return;
         }
-        // skip the value
-        valid(nums, indx + 1, n);
-        // add the value
-        if (sum + nums[indx] <= target) {
-            sum += nums[indx];
-            diary.push_back(nums[indx]);
-            valid(nums, indx, n);
-            diary.pop_back();
-            sum -= nums[indx];
+        valid(cand, tar, sum, ans, temp, i + 1, n);
+        if (sum + cand[i] <= tar) {
+            sum += cand[i];
+            temp.push_back(cand[i]);
+            valid(cand, tar, sum, ans, temp, i, n);
+            temp.pop_back();
+            sum -= cand[i];
         }
+        return ;
     }
-    vector<vector<int>> combinationSum(vector<int>& nums, int t) {
-        sum = 0;
-        target = t;
-        ans.clear();
-        diary.clear();
-        valid(nums, 0, nums.size());
+    vector<vector<int>> combinationSum(vector<int>& cand, int tar) {
+        int n = cand.size();
+        int sum = 0;
+        vector<vector<int>> ans;
+        vector<int> temp;
+        valid(cand, tar, sum, ans, temp, 0, n);
         return ans;
     }
 };
