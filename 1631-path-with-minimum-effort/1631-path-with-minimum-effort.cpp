@@ -1,47 +1,65 @@
+
 class Solution {
 public:
-    bool valid(int row, int col, int m, int n) {
-        if (row >= 0 && col >= 0 && row < m && col < n) {
-            return true;
+    vector<int> x = {-1, 1, 0, 0};
+    vector<int> y = {0, 0, -1, 1};
+
+    bool fun(int i, int j, int m, int n) {
+        if (i >= m || j >= n || j < 0 || i < 0) {
+            return false;
         }
-        return false;
+        return true;
     }
-    int x[4] = {-1, 1, 0, 0};
-    int y[4] = {0, 0, -1, 1};
-    int minimumEffortPath(vector<vector<int>>& heights) {
-        int m = heights.size();
-        int n = heights[0].size();
-        vector<vector<int>> res(m, vector<int>(n, INT_MAX));
-        priority_queue<pair<int, pair<int, int>>,
-                       vector<pair<int, pair<int, int>>>,
-                       greater<pair<int, pair<int, int>>>>
-            pq;
-        // dist,row,col
-        pq.push({0, {0, 0}});
-        res[0][0] = 0;
+
+    int minimumEffortPath(vector<vector<int>>& arr) {
+        int m = arr.size();
+        int n = arr[0].size();
+
+        vector<vector<int>> cost(m, vector<int>(n, INT_MAX));
+
+        priority_queue<
+            vector<int>,
+            vector<vector<int>>,
+            greater<vector<int>>
+        > pq;
+
+        cost[0][0] = 0;
+        pq.push({0, 0, 0});
+
         while (!pq.empty()) {
-            auto t = pq.top();
+            int currCost = pq.top()[0];
+            int i = pq.top()[1];
+            int j = pq.top()[2];
             pq.pop();
-            int dist = t.first;
-            int row = t.second.first;
-            int col = t.second.second;
-            if (dist > res[row][col]) {
+
+            if (currCost > cost[i][j]) {
                 continue;
             }
-            for (int i = 0; i < 4; i++) {
-                int r = row + x[i];
-                int c = col + y[i];
-                if (!valid(r, c, m, n)) {
-                    continue;
-                }
-                int diff = abs(heights[row][col] - heights[r][c]);
-                int weight = max(diff, dist);
-                if (weight < res[r][c]) {
-                    res[r][c] = weight;
-                    pq.push({weight, {r, c}});
+
+            if (i == m - 1 && j == n - 1) {
+                return currCost;
+            }
+
+            for (int k = 0; k < 4; k++) {
+                int nrow = i + x[k];
+                int ncol = j + y[k];
+
+                if (fun(nrow, ncol, m, n)) {
+                    int neighbour = arr[nrow][ncol];
+
+                    int costtt = max(
+                        currCost,
+                        abs(arr[i][j] - neighbour)
+                    );
+
+                    if (costtt < cost[nrow][ncol]) {
+                        cost[nrow][ncol] = costtt;
+                        pq.push({costtt, nrow, ncol});
+                    }
                 }
             }
         }
-        return res[m - 1][n - 1];
+
+        return 0;
     }
 };
