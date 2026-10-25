@@ -1,27 +1,24 @@
 class Solution {
 public:
-   map<pair<int,int>,int> dp ;
-    int money(vector<int>& nums, int i, int will) {
+     map<pair<int,int>,int> dp ;
+    int fun(vector<int>& nums, int i, int take) {
         if (i >= nums.size()) {
             return 0;
         }
-        if(dp.find({i,will})!= dp.end()){
-            return dp[{i,will}];
+        if(dp.find({i,take})!= dp.end()){
+            return dp[{i,take}];
         }
-
-        if (will == 0) {
-            dp[{i,will}]= money(nums, i + 1, 1);
+        if (take == 1) {
+           int rob = nums[i]+ fun(nums, i + 1, 0); // take
+            int skip =fun(nums, i + 1, 1);           // skip
+            dp[{i,take}]= max(rob,skip);
+        } else {
+            dp[{i,take}]= fun(nums, i + 1, 1);
         }
-        else {
-            int rob = nums[i] + money(nums, i + 1, 0);
-            int skip = money(nums, i + 1, 1);
-            dp[{i,will}] =max(rob, skip);
-
-          }  return dp[{i,will}];
-        
-    
+        return dp[{i,take}];
     }
     int rob(vector<int>& nums) {
-        return money(nums, 0, 1);
+        return fun(nums, 0, 1);
+    
     }
 };
