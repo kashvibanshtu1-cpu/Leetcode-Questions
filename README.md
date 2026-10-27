@@ -178,6 +178,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0387-first-unique-character-in-a-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0621-task-scheduler](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0621-task-scheduler/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -192,6 +193,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0076-minimum-window-substring](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -232,6 +234,7 @@ My personal coding journey: Storing and tracking optimal solutions to LeetCode D
 | [0387-first-unique-character-in-a-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/0767-reorganize-string/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kashvibanshtu1-cpu/Leetcode-Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
